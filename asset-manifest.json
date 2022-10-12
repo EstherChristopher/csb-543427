@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://estherchristopher.github.io/csb-543427/static/css/main.816608f4.chunk.css",
+    "main.js": "https://estherchristopher.github.io/csb-543427/static/js/main.13c3417e.chunk.js",
+    "main.js.map": "https://estherchristopher.github.io/csb-543427/static/js/main.13c3417e.chunk.js.map",
+    "runtime-main.js": "https://estherchristopher.github.io/csb-543427/static/js/runtime-main.a6930500.js",
+    "runtime-main.js.map": "https://estherchristopher.github.io/csb-543427/static/js/runtime-main.a6930500.js.map",
+    "static/js/2.aae8eb70.chunk.js": "https://estherchristopher.github.io/csb-543427/static/js/2.aae8eb70.chunk.js",
+    "static/js/2.aae8eb70.chunk.js.map": "https://estherchristopher.github.io/csb-543427/static/js/2.aae8eb70.chunk.js.map",
+    "index.html": "https://estherchristopher.github.io/csb-543427/index.html",
+    "static/css/main.816608f4.chunk.css.map": "https://estherchristopher.github.io/csb-543427/static/css/main.816608f4.chunk.css.map",
+    "static/js/2.aae8eb70.chunk.js.LICENSE.txt": "https://estherchristopher.github.io/csb-543427/static/js/2.aae8eb70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6930500.js",
+    "static/js/2.aae8eb70.chunk.js",
+    "static/css/main.816608f4.chunk.css",
+    "static/js/main.13c3417e.chunk.js"
+  ]
+}
